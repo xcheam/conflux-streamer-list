@@ -4,9 +4,9 @@
   "description": "2026-10-15 相对上一版的更新明细：new=新增，updated=在播信息更新，moved=同昵称换房号。",
   "updatedAt": "2026-10-15",
   "summary": {
-    "new": 362,
-    "updated": 152,
-    "moved": 172
+    "new": 375,
+    "updated": 328,
+    "moved": 174
   },
   "sections": [
     {
@@ -3367,6 +3367,123 @@
           "irl"
         ],
         "note": "B站·人气18·女·确认｜高崖子天文台全天系统"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "840593782687",
+        "name": "河南老表",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线3590·女·分区｜用户7069399080139"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "27765718",
+        "name": "褪黑素_忒修斯的船",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气36811·女·分区｜这领带牵着手感挺好"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "1921271623",
+        "name": "唇唇欲动-新厅待冠",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气34617·女·分区｜缺个宝宝有来的吗~"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "12694707797",
+        "name": "言儿聆听",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2449·女·分区｜言儿连线中......"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "895050983482",
+        "name": "❤️贝拉说",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2412·女·确认｜发生什么了？"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "24726021",
+        "name": "御剑-新厅开业",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气29674·女·分区｜遇事不决，可问春风"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "210097124780",
+        "name": "用户9790410202812",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2400·女·确认｜用户9790410202812"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "79711510386",
+        "name": "小猪猪",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2278·女·分区｜养分"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "706515229898",
+        "name": "一飞冲天炮-文智",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2184·女·分区｜一飞冲天炮-文智正在直播"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "45055362301",
+        "name": "小龙女⁹²⁶",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2159·女·确认｜小龙女⁹²⁶正在直播"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "177304274557",
+        "name": "米嘉⭐️ ⁵⁶²²努力搬砖",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2111·女·确认｜心态决定状态，感恩遇见！"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "281127906644",
+        "name": "新飞",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2069·女·确认｜老姊妹们减肥计划开始了"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "926933746708",
+        "name": "重生的小金(涅槃)III",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2064·女·分区｜别爱太满，别睡太晚"
       }
     ],
     "updated": [
