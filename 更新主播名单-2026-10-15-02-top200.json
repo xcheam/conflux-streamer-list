@@ -1,0 +1,1556 @@
+{
+  "schemaVersion": 1,
+  "name": "汇流直播主播单更新名单 2026-10-15 批次2",
+  "description": "2026-10-15 第2批合并的新增主播与变更明细。",
+  "updatedAt": "2026-10-15",
+  "summary": {
+    "new": 13,
+    "updated": 102,
+    "moved": 2
+  },
+  "sections": [
+    {
+      "id": "hok",
+      "name": "王者荣耀"
+    },
+    {
+      "id": "talent",
+      "name": "颜值与才艺"
+    },
+    {
+      "id": "dance",
+      "name": "舞蹈"
+    },
+    {
+      "id": "music",
+      "name": "唱歌与音乐"
+    },
+    {
+      "id": "chat",
+      "name": "聊天与户外"
+    },
+    {
+      "id": "asmr",
+      "name": "助眠与ASMR"
+    },
+    {
+      "id": "pk",
+      "name": "PK"
+    },
+    {
+      "id": "xingxiu",
+      "name": "星秀"
+    },
+    {
+      "id": "acg",
+      "name": "二次元"
+    },
+    {
+      "id": "irl",
+      "name": "IRL/户外"
+    },
+    {
+      "id": "talk",
+      "name": "Just Chatting/Talk"
+    }
+  ],
+  "entries": {
+    "new": [
+      {
+        "platform": "douyin",
+        "roomId": "840593782687",
+        "name": "河南老表",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线3590·女·分区｜用户7069399080139"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "27765718",
+        "name": "褪黑素_忒修斯的船",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气36811·女·分区｜这领带牵着手感挺好"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "1921271623",
+        "name": "唇唇欲动-新厅待冠",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气34617·女·分区｜缺个宝宝有来的吗~"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "12694707797",
+        "name": "言儿聆听",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2449·女·分区｜言儿连线中......"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "895050983482",
+        "name": "❤️贝拉说",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2412·女·确认｜发生什么了？"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "24726021",
+        "name": "御剑-新厅开业",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气29674·女·分区｜遇事不决，可问春风"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "210097124780",
+        "name": "用户9790410202812",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2400·女·确认｜用户9790410202812"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "79711510386",
+        "name": "小猪猪",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2278·女·分区｜养分"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "706515229898",
+        "name": "一飞冲天炮-文智",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2184·女·分区｜一飞冲天炮-文智正在直播"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "45055362301",
+        "name": "小龙女⁹²⁶",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2159·女·确认｜小龙女⁹²⁶正在直播"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "177304274557",
+        "name": "米嘉⭐️ ⁵⁶²²努力搬砖",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2111·女·确认｜心态决定状态，感恩遇见！"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "281127906644",
+        "name": "新飞",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2069·女·确认｜老姊妹们减肥计划开始了"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "926933746708",
+        "name": "重生的小金(涅槃)III",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2064·女·分区｜别爱太满，别睡太晚"
+      }
+    ],
+    "updated": [
+      {
+        "platform": "huya",
+        "roomId": "35184626484094",
+        "name": "拾光、是点妹",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气937882·女·推断｜小菜鸟、",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1041/a1/e9ca55fe9dc70c74879190c988df92_180_135.jpg?1784619602",
+        "avatarColor": "#924F3F",
+        "hot": 1161130,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184718519015",
+        "name": "DT丶枫恋",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气679638·女·分区｜村1海月挨揍的一天",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1083/ea/27eab5d287975da81f2bfc788f83d7_180_135.jpg?1788150129",
+        "avatarColor": "#B49678"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184716849259",
+        "name": "鸭梨【巅峰第一香香】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气575703·女·分区｜688小国＋百星国服孙尚香双区带粉",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1071/c1/363979259499f8158c712eb56427b2_180_135.jpg?1783739829",
+        "avatarColor": "#96A0C0"
+      },
+      {
+        "platform": "huya",
+        "roomId": "38877810",
+        "name": "Zz-赵七七",
+        "sections": [
+          "talent"
+        ],
+        "note": "虎牙·人气183304·女·分区｜【蓝莓】养身体~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1046/83/2909a513c32f5f0b6db187adb6aacf_180_135.jpg?1785951263",
+        "avatarColor": "#C28F70"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184662283078",
+        "name": "大京【大网猴】",
+        "sections": [
+          "chat",
+          "talent",
+          "irl"
+        ],
+        "note": "虎牙·人气129192·女·分区｜来人才了",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1055/c2/ed54f21d13408ba9ffefa32c64a7f2_180_135.jpg?1791131844",
+        "avatarColor": "#9A6842",
+        "hot": 162128,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184481131989",
+        "name": "光头野王北辰",
+        "sections": [
+          "hok",
+          "chat",
+          "talent"
+        ],
+        "note": "虎牙·人气739062·女·分区｜【守护荣耀】脱口秀国一阿珂三带二带粉",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1006/26/52c4a921b9f64cdc76a5ef38fde3b2_180_135.jpg?1746842781",
+        "avatarColor": "#6B5523"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184718414461",
+        "name": "听歌【喜上眉梢】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气184310·女·分区｜新人女野王带粉包c 滴滴",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1070/c7/fa3b2f007c4be5ec53271c65f0357c_180_135.jpg?1788679215",
+        "avatarColor": "#A06D44"
+      },
+      {
+        "platform": "huya",
+        "roomId": "1909412772",
+        "name": "淘子【赚麻了】",
+        "sections": [
+          "talent",
+          "music",
+          "pk",
+          "xingxiu"
+        ],
+        "note": "虎牙·人气185570·女·分区｜【唱】蓝莓      ~ 会好滴！",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1007/9a/e652b2c63dc4b5fc9142a605c5e538_180_135.jpg?1777519283",
+        "avatarColor": "#9B7B4C",
+        "hot": 194062,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "2210312367",
+        "name": "林一宁、【努力鸭】",
+        "sections": [
+          "talent",
+          "xingxiu",
+          "pk"
+        ],
+        "note": "虎牙·人气303332·女·分区｜【福建】挣钱买苹果18promax2TB",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1058/80/e9c5a681ba34cb7dd3bfdf6f36a431_180_135.jpg?1730058159",
+        "avatarColor": "#A36D54",
+        "hot": 249708,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184440427573",
+        "name": "强有力【16028】",
+        "sections": [
+          "chat",
+          "talent",
+          "irl"
+        ],
+        "note": "虎牙·人气258290·女·分区｜村口集合公益免费早餐",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1065/fc/95e7d28bd8c3b6c966148daf1cc5e2_180_135.jpg?1782898960",
+        "avatarColor": "#D29A59",
+        "hot": 273300,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "2096013371",
+        "name": "梦见了乔",
+        "sections": [
+          "music",
+          "pk",
+          "talent",
+          "xingxiu"
+        ],
+        "note": "虎牙·人气301266·女·分区｜广东唱歌的",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1004/11/32c8c0027a2c96f166bd9b354bd2e8_180_135.jpg?1646405942",
+        "avatarColor": "#CB6667",
+        "hot": 252046,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184626536980",
+        "name": "书香、甜甜圈",
+        "sections": [
+          "pk",
+          "talent",
+          "xingxiu"
+        ],
+        "note": "虎牙·人气530109·女·推断｜蓝莓！百川up！麻了~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1041/2a/58835171b779273ed88030b8f3b15b_180_135.jpg?1768318096",
+        "avatarColor": "#C1A8A2",
+        "hot": 483389,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184716977811",
+        "name": "远方-【国服后羿】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气558057·女·分区｜养猪创始人158荣耀788小国",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1047/ea/2257766761348f08471f78a19a9c6d_180_135.jpg?1784333673",
+        "avatarColor": "#8A8B84"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "22342243",
+        "name": "快看",
+        "sections": [
+          "chat"
+        ],
+        "note": "B站·人气27975·女·分区｜鲜花舍快看放映厅《武林外传》",
+        "avatar": "https://i1.hdslb.com/bfs/face/c9efe213b533370e428b72e5b90053ac92188456.jpg",
+        "avatarColor": "#005CA7"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184710448862",
+        "name": "小酒窝翁馨",
+        "sections": [
+          "dance",
+          "xingxiu",
+          "talent",
+          "pk"
+        ],
+        "note": "虎牙·人气399885·女·推断｜会有属于的小幸运",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1070/36/d7cfeb6cf06fcc31006b76e6244ca0_180_135.jpg?1788453954",
+        "avatarColor": "#E8A120",
+        "hot": 338186,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184705628665",
+        "name": "Ck-仙洱",
+        "sections": [
+          "dance",
+          "pk",
+          "xingxiu",
+          "talent"
+        ],
+        "note": "虎牙·人气128002·女·分区｜祈求神佛",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1059/46/f8b73503e84e9977e2d5be6159712e_180_135.jpg?1785591062",
+        "avatarColor": "#AA8567",
+        "hot": 258396,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184691370941",
+        "name": "Hot-白白吖",
+        "sections": [
+          "talent",
+          "xingxiu",
+          "pk"
+        ],
+        "note": "虎牙·人气127390·女·分区｜蓝莓~香香软软的小情书对我好一点哟",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1082/47/6fe92c0dffe8d46e6ecb470295f439_180_135.jpg?1753727178",
+        "avatarColor": "#D79D9F",
+        "hot": 91012,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184692998990",
+        "name": "悦尚-兮兮",
+        "sections": [
+          "pk",
+          "talent",
+          "xingxiu"
+        ],
+        "note": "虎牙·人气408666·女·分区｜【蓝莓 蓝莓】美女的365张面孔",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1014/76/f42d212f05fb8e78625fcd292369e4_180_135.jpg?1765552275",
+        "avatarColor": "#DB8FA2",
+        "hot": 267332,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184453389291",
+        "name": "白晶晶【轩徒】",
+        "sections": [
+          "talent",
+          "xingxiu",
+          "pk"
+        ],
+        "note": "虎牙·人气151650·女·分区｜【蓝莓】辣妹女孩top1 蛇 军 故里",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1024/11/de2080eb5ac30a1d7cd49e00e3e9ed_180_135.jpg?1628840111",
+        "avatarColor": "#8992B2",
+        "hot": 212937,
+        "genderConf": "high"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "1809236039",
+        "name": "知音know-u-邊牧冠",
+        "sections": [
+          "music",
+          "dance",
+          "chat"
+        ],
+        "note": "B站·人气32336·女·分区｜舞蹈生再就业",
+        "avatar": "https://i0.hdslb.com/bfs/live/user_cover/a45a461c8e01ad20cacf59095f9010ee48f8ef85.jpg",
+        "avatarColor": "#C1B09D"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "1748630332",
+        "name": "舍友-交友点唱",
+        "sections": [
+          "music",
+          "talk",
+          "chat"
+        ],
+        "note": "B站·人气27479·女·分区｜姐姐~这里都是小可爱",
+        "avatar": "https://i0.hdslb.com/bfs/live/user_cover/2e5c698cddf0438b79f4e10d021a936781588dd9.jpg",
+        "avatarColor": "#DBB44F",
+        "hot": 27290,
+        "genderConf": "high"
+      },
+      {
+        "platform": "bilibili",
+        "roomId": "1724213895",
+        "name": "淘堡堡-狗狗大侠冠",
+        "sections": [
+          "music",
+          "chat"
+        ],
+        "note": "B站·人气33906·女·分区｜看了不烧心  播的稳",
+        "avatar": "https://i0.hdslb.com/bfs/live/new_room_cover/5cd5d2b39f23864b0a4aff7ff3563d950f3a12e5.jpg",
+        "avatarColor": "#B0B3D2"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184717459557",
+        "name": "灵儿【02幸运星】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气531812·女·推断｜【深圳甜妹】国服云缨守护荣耀有位置",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1029/40/87eddea8d06c9a96d93c2a85a7f79c_180_135.jpg?1788955120",
+        "avatarColor": "#A49A9E",
+        "hot": 531143,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184441634427",
+        "name": "云翔-优优",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气214953·女·推断｜江西甜妹全能高手，超奈斯",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1076/78/d31f4dd931f7f59b73e00f690f7559_180_135.jpg?1787283840",
+        "avatarColor": "#857382",
+        "hot": 137671,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "1636858308",
+        "name": "AH丶蟑螂Q【风景】花海",
+        "sections": [
+          "pk",
+          "talent",
+          "xingxiu"
+        ],
+        "note": "虎牙·人气162458·女·分区｜蓝莓~趣~寒武哥up~百川哥",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1093/82/359dd3131b653638e07e88b3173baf_180_135.jpg?1766925227",
+        "avatarColor": "#A08155",
+        "hot": 172990,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184643137667",
+        "name": "FR-恰好心动",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气181580·女·推断｜【自由厅】昨天打赏过的主播",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1095/1f/8eaf70eaeb7992ae4a1cb66ec84082_180_135.jpg?1787817556",
+        "avatarColor": "#9F9292",
+        "hot": 229153,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184486126516",
+        "name": "仙女-小漫春曲",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气231114·女·推断｜全麦御姐",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1015/8f/215637e8bac2cbfd2abf985226cba2_180_135.jpg?1719564685",
+        "avatarColor": "#9098B7",
+        "hot": 225617,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184543681498",
+        "name": "仙女-初恋Fm",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气177572·女·推断｜少女单身独居声音大",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1068/4b/1d6f8731c2da29f36ecf2672300e25_180_135.jpg?1768474180",
+        "avatarColor": "#919CBB",
+        "hot": 217154,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184555941096",
+        "name": "Dae点唱-乐上云端",
+        "sections": [
+          "chat",
+          "talent",
+          "talk",
+          "music"
+        ],
+        "note": "虎牙·人气459836·女·推断｜【点唱】十月请对我们好一点～应聘+",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1077/de/51e2d58fe8b025ee945eab89d381f3_180_135.jpg?1618997923",
+        "avatarColor": "#B4887B",
+        "hot": 214413,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184635907095",
+        "name": "仙女-好运FM",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气225228·女·推断｜来就欧气爆棚，好运连连~【FM】",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1000/ff/799c8e9bd85af375d6156f1f41a1ea_180_135.jpg?1747484502",
+        "avatarColor": "#D3A4C9",
+        "hot": 205162,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184633650165",
+        "name": "FR-最后一页-",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气176321·女·分区｜我跟你说我今天....",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1079/28/d1d93bf560ca6ff36045546ae1980d_180_135.jpg?1790337206",
+        "avatarColor": "#98A3C6",
+        "hot": 189859,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184437938060",
+        "name": "鱼塘-一路长红",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气146451·女·分区｜一路的妹妹很哇塞~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1028/23/97f20c2ffa218f77543114ff9a1b0d_180_135.jpg?1630682393",
+        "avatarColor": "#83A2AD",
+        "hot": 188960,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "527014743",
+        "name": "盛世-仙女湖",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气213081·女·推断｜湖主争霸赛:今晚20点！",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1039/b2/f7a27be6dec5ca5c36fc1f5a71eec5_180_135.jpg?1669745340",
+        "avatarColor": "#6485C6",
+        "hot": 183320,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184567201828",
+        "name": "玩味-九天揽月",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气258809·女·推断｜玩味1自由厅-心平可愈三千疾",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1008/a0/0d3e82ba79d97993cb07a6d0c87281_180_135.jpg?1762855285",
+        "avatarColor": "#A6BCDB",
+        "hot": 170006,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "1613148",
+        "name": "星晴-全是美女",
+        "sections": [
+          "chat",
+          "talk",
+          "talent"
+        ],
+        "note": "虎牙·人气150434·女·推断｜看头像秒猜星座很准！/废腿玫瑰锅巴冠",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1004/c2/dd02cfde911e20b7959b3a526bc1d0_180_135.jpg?1576405389",
+        "avatarColor": "#A7565E",
+        "hot": 151902,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184567333114",
+        "name": "鱼塘-众星捧月",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气137058·女·推断｜妈妈不让看的直播间~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1097/59/2067dbe4829583c85085974cfdea77_180_135.jpg?1630696400",
+        "avatarColor": "#83A3AD",
+        "hot": 150933,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184557329613",
+        "name": "FR-桃你欢喜",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气157486·女·推断｜祝给你糖吃生日快乐",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1030/16/2b91a976302c3a5778c4dc4f72b8e8_180_135.jpg?1767198034",
+        "avatarColor": "#C66098",
+        "hot": 131375,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184455379378",
+        "name": "FR-招财进宝",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气145851·女·推断｜祝给你糖吃生日快乐",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1036/98/626f04cf9c1a78be50aba2ab522904_180_135.jpg?1767198325",
+        "avatarColor": "#CBA4A7",
+        "hot": 125817,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "19750027",
+        "name": "鱼塘-小鹿乱撞-",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气252553·女·推断｜叫宝宝就上钩 不行你试试呢",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1039/2e/d851bd1e9ab8cda2fc2ee8a6b9a232_180_135.jpg?1630683359",
+        "avatarColor": "#80A0AB",
+        "hot": 104231,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "1750223663",
+        "name": "金水-hello姐姐",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气159290·女·推断｜幸福吗?包的！",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1021/49/1ff9df4ce065d2ca6c75ed13efc650_180_135.jpg?1707220258",
+        "avatarColor": "#C8B5A6",
+        "hot": 100789,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184679431357",
+        "name": "Qr-桃之夭夭",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气361610·女·推断｜清纯女大打工ing",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1043/08/fc53f5e2e3b6e04ded3fbdf126f29d_180_135.jpg?1714379418",
+        "avatarColor": "#987462",
+        "hot": 87142,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184716683875",
+        "name": "星宫-星光闪闪",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气126875·女·推断｜怀孕两个月瞒着老公秀..全麦新人",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1013/b3/3ef112dc304e51ab3d739c44db6c72_180_135.jpg?1785332282",
+        "avatarColor": "#9D7670",
+        "hot": 71672,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184646127924",
+        "name": "FR-一念如初",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气138894·女·推断｜不盼帅哥生日快乐～平安喜乐～",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1057/f4/4b4595c75b265e0209cbc4616cde89_180_135.jpg?1735911828",
+        "avatarColor": "#706565",
+        "hot": 71214,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184580950324",
+        "name": "FR-月色迷人",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气126938·女·推断｜祝给你糖吃生日快乐",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1014/db/46d7a61421526c28376491fd02c633_180_135.jpg?1766998264",
+        "avatarColor": "#AD8C6D",
+        "hot": 68356,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "2203284935",
+        "name": "cc、洛神一",
+        "sections": [
+          "pk",
+          "xingxiu",
+          "talent"
+        ],
+        "note": "虎牙·人气443665·女·分区｜浙江 蓝莓 期待来自相遇 宝图剃头",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1030/c1/d9b72376cbc8fcbef09572cf41c053_180_135.jpg?1787109955",
+        "avatarColor": "#C48E76",
+        "hot": 81098,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184717713760",
+        "name": "Ck-昭涵",
+        "sections": [
+          "pk",
+          "xingxiu",
+          "talent"
+        ],
+        "note": "虎牙·人气158802·女·推断｜饿饿~喜欢蓝莓 百川 up",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1016/7e/43328c944df7658b13a9d59b101a43_180_135.jpg?1790997597",
+        "avatarColor": "#B4773E",
+        "hot": 318810,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184674311870",
+        "name": "追梦-心享柿橙-别不是",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气130783·女·推断｜【追梦】太乙姐姐和瓜瓜帅的要命",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1011/49/f2597a630f73ad7a41db604765ba37_180_135.jpg?1768582033",
+        "avatarColor": "#B48B7D",
+        "hot": 59730,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "2115328360",
+        "name": "提笔绘倾城、",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气308796·女·分区｜天青色等烟雨",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1094/d0/ac5c2cfe8a48a2a68afe5884b05c68_180_135.jpg?1789874885",
+        "avatarColor": "#D3AA68",
+        "hot": 356781
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184717551122",
+        "name": "冼剪吹【世一宫本】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气155085·女·分区｜荣耀188",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1099/04/c83e362d7c2a6cedfda9647219cc4d_180_135.jpg?1788434329",
+        "avatarColor": "#68D3AA",
+        "hot": 147530
+      },
+      {
+        "platform": "huya",
+        "roomId": "1905618175",
+        "name": "Yaq-花花世界",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气183351·女·分区｜关注15号全天厅战活动中~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1081/f4/4dcad96cb7651fab490c30780a439d_180_135.jpg?1548225957",
+        "avatarColor": "#B868D3",
+        "hot": 982157
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184461055699",
+        "name": "玩味-弦外之音-静静冠",
+        "sections": [
+          "chat",
+          "talent",
+          "talk",
+          "music"
+        ],
+        "note": "虎牙·人气135800·女·分区｜[点唱] 别往下了，就是这进来！",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1022/b0/a0cd63abdddfb090f094e3c11296bb_180_135.jpg?1631778774",
+        "avatarColor": "#B668D3",
+        "hot": 951415,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184635905109",
+        "name": "Zx-不良人",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气159849·女·分区｜Zx-不良人/新人多/陈陈up",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1020/95/b3d54faee759d3744015da6a8d16fb_180_135.jpg?1745921277",
+        "avatarColor": "#D368A3",
+        "hot": 301304
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184664395773",
+        "name": "LK-万里挑一",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气194833·女·分区｜附近的人距离0.01km",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1079/e1/97503904f1920f1c93330a27d1070e_180_135.jpg?1688051085",
+        "avatarColor": "#C5D368",
+        "hot": 236582,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184608391151",
+        "name": "Up-小y",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气548074·女·分区｜免费上车，99荣耀，国服阿古朵在线带粉",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1039/29/dd89f5981a8a417040854591faaea2_180_135.jpg?1764811033",
+        "avatarColor": "#7CD368",
+        "hot": 540805
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184630834216",
+        "name": "Up-大大怪",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气554427·女·分区｜[免费上车]99荣耀虎牙第一娜可阿古朵",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1055/5c/57a3318654e479db783bf3f40f3d95_180_135.jpg?1789666840",
+        "avatarColor": "#8568D3",
+        "hot": 535172
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184565967538",
+        "name": "冼剪吹【国一宫本】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气240812·女·分区｜王者58万战488",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1058/58/5df663a637587012ba2a73772cec63_180_135.jpg?1790793782",
+        "avatarColor": "#D36885",
+        "hot": 272330
+      },
+      {
+        "platform": "huya",
+        "roomId": "2347202461",
+        "name": "知柚姊姊【好运连连】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气208779·女·推断｜每天零点到6点上线的 游戏搭子",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1036/f0/2c5c05b11e029c4455e58e662571c5_180_135.jpg?1781138150",
+        "avatarColor": "#688AD3",
+        "hot": 135327
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184715097273",
+        "name": "一一【AJ】好运来财版",
+        "sections": [
+          "talent",
+          "xingxiu"
+        ],
+        "note": "虎牙·人气243221·女·分区｜虎牙李美嘉直播第一天",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1080/27/3af6cef8aa58d69f6178892c2533b8_180_135.jpg?1790881419",
+        "avatarColor": "#D3AF68",
+        "hot": 519948,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184564980495",
+        "name": "热搜-坠落梦境-星梦冠",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气138963·女·推断｜08 女大 没老公 放心刷",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1038/f7/d095e158ec04fab14ef6ccce416c46_180_135.jpg?1733817976",
+        "avatarColor": "#6877D3",
+        "hot": 349190,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184674431650",
+        "name": "追梦-与你相遇i",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气187742·女·分区｜【追梦】 与你距离你0.3km...",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1095/e7/31e97d0453cd6a78c4f6b5b4130d6f_180_135.jpg?1785775906",
+        "avatarColor": "#D368B8",
+        "hot": 305074,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184443322583",
+        "name": "鱼塘-不负韶华",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气175553·女·分区｜今晚还回家吃饭吗？",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1047/77/312572b4a790a7df025961a08c307b_180_135.jpg?1630681821",
+        "avatarColor": "#68CAD3",
+        "hot": 280167,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184445314268",
+        "name": "盛世-优悠我心",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气190646·女·推断｜体力不好！不要进",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1079/da/631979cecff5d6cdfd336adf67fb2f_180_135.jpg?1602328540",
+        "avatarColor": "#B168D3",
+        "hot": 256321,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184445314113",
+        "name": "盛世-步步高升-李同学",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气166411·女·分区｜年年52级快乐 天天开心",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1018/6a/8f5fe44105d02983ba2d144ad890b9_180_135.jpg?1770735278",
+        "avatarColor": "#A368D3",
+        "hot": 255758,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "2313248517",
+        "name": "eStar-三生三世",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气191477·女·分区｜点进来。开启一段美好相遇～",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1099/a9/c5cab05e23fbe4afdb4865364537b3_180_135.jpg?1778471343",
+        "avatarColor": "#68D39E",
+        "hot": 250702,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184408027168",
+        "name": "鱼塘-恭喜发财",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气179975·女·分区｜你会在第七秒爱上我",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1077/b3/18045f92fb9384b7974393773b88ea_180_135.jpg?1630730135",
+        "avatarColor": "#68D3D1",
+        "hot": 214994,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184421133123",
+        "name": "鱼塘-八方来财",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气210101·女·分区｜该主播距离你100M",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1037/ba/0d8054e16cc6205ce654641d30514a_180_135.jpg?1631802839",
+        "avatarColor": "#D36898",
+        "hot": 193451,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "2241623303",
+        "name": "鱼塘-最美遇见-煜星冠",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气438507·女·推断｜有花吗？就看",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1071/99/68cbba1536330deb70c918e8a33c87_180_135.jpg?1667128275",
+        "avatarColor": "#68D3C3",
+        "hot": 180268,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184438696982",
+        "name": "鱼塘-未来可期",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气149960·女·分区｜不许叫老婆",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1026/ae/3e92e6c5131f712204f994e68aa4b5_180_135.jpg?1630991186",
+        "avatarColor": "#68D3BF",
+        "hot": 166032,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184407692342",
+        "name": "鱼塘-寻声而来",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气222017·女·分区｜主播距你60米|派单交友",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1014/ec/714ceec8846e2832a9063060cbb504_180_135.jpg?1667191680",
+        "avatarColor": "#96D368",
+        "hot": 114898,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184687291527",
+        "name": "DJ-孽槃重生",
+        "sections": [
+          "chat",
+          "talent",
+          "talk"
+        ],
+        "note": "虎牙·人气151323·女·分区｜附近在校大学生正在直播....【自由厅】",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1018/e7/79a56b8e62820b34537c716b162b5a_180_135.jpg?1778222839",
+        "avatarColor": "#68D3D3",
+        "hot": 91067,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184450609971",
+        "name": "DJ-半行情书",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气161978·女·分区｜【自由厅】欢迎光临",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1050/a0/e4fa27ae8ad4536082ba30e92e6fdb_180_135.jpg?1670173132",
+        "avatarColor": "#96D368",
+        "hot": 84795,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184500957639",
+        "name": "玩味-巴黎世家",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气139244·女·分区｜玩味32厅 巴黎世家 玩味之下皆为蝼蚁",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1049/26/1498956bd564ec968b66df2b7d85c2_180_135.jpg?1784275711",
+        "avatarColor": "#68D3C1",
+        "hot": 84321,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184457718912",
+        "name": "盛世-初时心动",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气137172·女·推断｜轻点进来哦~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1008/d7/3b89c8776d0f337f63322f19981a2e_180_135.jpg?1711347080",
+        "avatarColor": "#8868D3",
+        "hot": 70359
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184444689887",
+        "name": "玩味-福星满满",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气150671·女·推断｜「自由厅」今天周末，你有非心了吗？💗",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1005/b6/9e965a742c8f3b505744c063ca0511_180_135.jpg?1782901553",
+        "avatarColor": "#68BCD3",
+        "hot": 68755,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184675137154",
+        "name": "DJ-快来搂席",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气224199·女·分区｜玩玩玩个大门",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1086/92/79b9e0b1c602dbe060814847146bf5_180_135.jpg?1762417494",
+        "avatarColor": "#686FD3",
+        "hot": 63884
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184582656174",
+        "name": "FR-为你心动",
+        "sections": [
+          "chat",
+          "talk"
+        ],
+        "note": "虎牙·人气125661·女·推断｜祝给你糖吃生日快乐~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1015/71/89ad726534c9849fe81dcc3b0d819e_180_135.jpg?1748419662",
+        "avatarColor": "#D3689E",
+        "hot": 34504
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184419171399",
+        "name": "灯泡妹妹",
+        "sections": [
+          "xingxiu",
+          "talent",
+          "music"
+        ],
+        "note": "虎牙·人气288932·女·推断｜【唱歌】地里的小白菜~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1033/23/5801907dbf15423c8aec487df1fca1_180_135.jpg?1658565414",
+        "avatarColor": "#A191A3",
+        "hot": 364955,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184677585132",
+        "name": "悦尚-泡泡",
+        "sections": [
+          "xingxiu",
+          "talent",
+          "pk"
+        ],
+        "note": "虎牙·人气129216·女·分区｜【山东新人】蓝莓蓝莓 恭喜發財~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1029/82/d1c715aa0d664499318e212227348d_180_135.jpg?1790910124",
+        "avatarColor": "#A77554",
+        "hot": 316582,
+        "genderConf": "medium"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "765790908625",
+        "name": "若水🎙️（经典老歌）",
+        "sections": [
+          "music",
+          "pk",
+          "acg"
+        ],
+        "note": "抖音·在线4774·女·确认｜只唱歌，不说话，不PK",
+        "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9e2b330b5edb7cdc90e949dbe4cf4e4d.jpeg?from=3067671334",
+        "avatarColor": "#98666A",
+        "hot": 3550,
+        "genderConf": "high"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "407486521624",
+        "name": "塞班班（16号早7点人气票）",
+        "sections": [
+          "music",
+          "chat"
+        ],
+        "note": "抖音·在线2421·女·确认｜体力主播！",
+        "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1fe100681ca8f0b4bdcbebacc72838c3.jpeg?from=3067671334",
+        "avatarColor": "#A7B9D1",
+        "hot": 737,
+        "genderConf": "high"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "689955274559",
+        "name": "安安🔥互涨1000粉",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2465·女·确认｜开播了",
+        "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oAAkYC9pYEtcioIPhAm5paMihAZABARvGWxUo.jpeg?from=3067671334",
+        "avatarColor": "#A37C6E",
+        "hot": 4243,
+        "genderConf": "high"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "523594625208",
+        "name": "母女组合👩🏻‍❤️‍👩🏻9251",
+        "sections": [
+          "chat"
+        ],
+        "note": "抖音·在线2183·女·确认｜哪个是丈母娘",
+        "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bc4486495d764acfea3a55d499edddac.jpeg?from=3067671334",
+        "avatarColor": "#CEA595",
+        "hot": 1534,
+        "genderConf": "high"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184442792200",
+        "name": "LING露雪【世1老六】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气1079329·女·推断｜世界第一兰陵王来咯"
+      },
+      {
+        "platform": "huya",
+        "roomId": "wanwanzuibai",
+        "name": "婉婉【顶尖女野射】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气541445·女·确认｜99荣耀【秒跟车上直播打】"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184520887811",
+        "name": "云翔-小菜清",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气536577·女·推断｜来，我五路全废"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184716720418",
+        "name": "JL-晴天",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气530201·女·推断｜星耀低星"
+      },
+      {
+        "platform": "huya",
+        "roomId": "1839654354",
+        "name": "鸭梨【国1孙尚香】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气325834·女·推断｜99打20颗星【不是录播】"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184435425819",
+        "name": "智秀【世1韩信】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气531286·女·分区｜99荣耀 顶级中路 连胜有位置"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184496630743",
+        "name": "k",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气529863·女·分区｜咪西"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184539551550",
+        "name": "梦境-笙少",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气419131·女·分区｜关注1把灯牌3把国1镜澜娜99%胜率带粉"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184719621646",
+        "name": "蜜小涛-【国一诸葛】",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气330785·女·分区｜国一诸葛 跟车上号有位"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184618761479",
+        "name": "TG-让",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气185430·女·分区｜泥嚎 我系糕手~"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184434479496",
+        "name": "TG-狸花花",
+        "sections": [
+          "hok"
+        ],
+        "note": "虎牙·人气157791·女·分区｜你不炸我不炸小鱼何时能长大～"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184718994527",
+        "name": "QY-叶星雅",
+        "sections": [
+          "talent"
+        ],
+        "note": "虎牙·人气250339·女·推断｜万万！"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184663913007",
+        "name": "满创-慧慧子",
+        "sections": [
+          "talent"
+        ],
+        "note": "虎牙·人气410882·女·分区｜百川哥up~幸运呀！！！"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184702093054",
+        "name": "QY-懒懒大王【聋瞎】",
+        "sections": [
+          "talent"
+        ],
+        "note": "虎牙·人气338296·女·分区｜【🦞】我宝宝是全世界最牛B的男人！！！"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184450205899",
+        "name": "AH、未婚妻",
+        "sections": [
+          "talent"
+        ],
+        "note": "虎牙·人气220275·女·分区｜重庆  起点哥Up 补补榜吧"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "318012415649",
+        "name": "北北and狄狄🎵（16号晚🎂）",
+        "sections": [
+          "music",
+          "chat"
+        ],
+        "note": "抖音·在线2381·女·确认｜音乐是唯一一个没有副作用的药"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "73291678942",
+        "name": "翔丫头❤️",
+        "sections": [
+          "music",
+          "chat"
+        ],
+        "note": "抖音·在线2084·女·确认｜翔丫头🎤正在直播"
+      },
+      {
+        "platform": "douyin",
+        "roomId": "832824309263",
+        "name": "沐沐",
+        "sections": [
+          "music",
+          "chat"
+        ],
+        "note": "抖音·在线2490·女·分区｜弘扬传统，传唱红歌"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184433424096",
+        "name": "集美舔狗小芳722【ZKL】",
+        "sections": [
+          "chat",
+          "irl"
+        ],
+        "note": "虎牙·人气639956·女·分区｜庄园，宝🍅财迷相遇"
+      },
+      {
+        "platform": "huya",
+        "roomId": "35184715602599",
+        "name": "集美野蟑螂【ZKL】爆",
+        "sections": [
+          "chat",
+          "irl"
+        ],
+        "note": "虎牙·人气442549·女·分区｜给我进来"
+      }
+    ],
+    "moved": [
+      {
+        "platform": "huya",
+        "roomId": "35184697322042",
+        "name": "悠悠爱电影",
+        "sections": [
+          "chat",
+          "talent"
+        ],
+        "note": "虎牙·人气136196·女·分区｜星爷  达文西  搞笑",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1041/a5/10ded51e3ad604d7c12bee7e4da8aa_180_135.jpg?1744288855",
+        "avatarColor": "#6887D3",
+        "hot": 168677
+      },
+      {
+        "platform": "huya",
+        "roomId": "2241620405",
+        "name": "鱼塘-独一无二",
+        "sections": [
+          "chat",
+          "talent"
+        ],
+        "note": "虎牙·人气127327·女·分区｜祝铜哥生日快乐~发财暴富~",
+        "avatar": "https://huyaimg.msstatic.com/avatar/1003/b2/561a3fc3a8d7c5fa213f435fc2c90b_180_135.jpg?1630687889",
+        "avatarColor": "#91D368",
+        "hot": 289307,
+        "genderConf": "high"
+      }
+    ]
+  }
+}
