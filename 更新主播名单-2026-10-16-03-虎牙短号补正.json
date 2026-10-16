@@ -1,0 +1,777 @@
+{
+  "schemaVersion": 1,
+  "name": "汇流直播主播单更新名单 2026-10-16 批次03",
+  "description": "2026-10-16 虎牙房间号二次补正：依据核实文件将 10-16 新增中的错误长房间号替换为核实短号，仅改 roomId；产生的重复房间已合并。",
+  "updatedAt": "2026-10-16",
+  "summary": {
+    "new": 0,
+    "updated": 0,
+    "moved": 102
+  },
+  "sections": [
+    {
+      "id": "hok",
+      "name": "王者荣耀"
+    },
+    {
+      "id": "talent",
+      "name": "颜值与才艺"
+    },
+    {
+      "id": "dance",
+      "name": "舞蹈"
+    },
+    {
+      "id": "music",
+      "name": "唱歌与音乐"
+    },
+    {
+      "id": "chat",
+      "name": "聊天与户外"
+    },
+    {
+      "id": "asmr",
+      "name": "助眠与ASMR"
+    },
+    {
+      "id": "pk",
+      "name": "PK"
+    },
+    {
+      "id": "xingxiu",
+      "name": "星秀"
+    },
+    {
+      "id": "acg",
+      "name": "二次元"
+    },
+    {
+      "id": "irl",
+      "name": "IRL/户外"
+    },
+    {
+      "id": "talk",
+      "name": "Just Chatting/Talk"
+    }
+  ],
+  "entries": {
+    "new": [],
+    "updated": [],
+    "moved": [
+      {
+        "platform": "huya",
+        "roomId": "29808728",
+        "name": "TG-枝枝【超乖哟】",
+        "previousRoomId": "35184678238649",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31140717",
+        "name": "古个哒",
+        "previousRoomId": "35184710949290",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "20209",
+        "name": "万象-鹏子【暴富】",
+        "previousRoomId": "35184402546282",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "24609823",
+        "name": "吴哥赶海",
+        "previousRoomId": "35184555268242",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "29982689",
+        "name": "寻宝炼金纪录片",
+        "previousRoomId": "35184682720695",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30605643",
+        "name": "星耀-魂牵梦绕",
+        "previousRoomId": "35184697123327",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31361433",
+        "name": "HZ-o椰",
+        "previousRoomId": "35184718160164",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30764822",
+        "name": "越式酥麻",
+        "previousRoomId": "35184699958328",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "24546446",
+        "name": "蔡小姬探班日记",
+        "previousRoomId": "35184553273445",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31390791",
+        "name": "Timi丶小月亮",
+        "previousRoomId": "35184719274619",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "126358",
+        "name": "夏冉冉、",
+        "previousRoomId": "35184482176705",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31356358",
+        "name": "JS-小江",
+        "previousRoomId": "35184717990404",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "154912",
+        "name": "集梦李文豪【116】",
+        "previousRoomId": "35184465507050",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "23118142",
+        "name": "晨哥真有料",
+        "previousRoomId": "35184474142647",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31183563",
+        "name": "全糖艳麦zoo",
+        "previousRoomId": "35184712355735",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31361734",
+        "name": "小鱼饱饱Oo",
+        "previousRoomId": "35184718168146",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "20523588",
+        "name": "华农兄弟",
+        "previousRoomId": "35184422794859",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31302821",
+        "name": "小号黑猫啊",
+        "previousRoomId": "35184716165174",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "138175",
+        "name": "李幼琳KK",
+        "previousRoomId": "35184484456381",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31399101",
+        "name": "鱼跃-巧儿",
+        "previousRoomId": "35184719571749",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31318005",
+        "name": "佳亿-归云",
+        "previousRoomId": "35184649673264",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31368429",
+        "name": "QY-池优优",
+        "previousRoomId": "35184718464311",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158327",
+        "name": "程程【401】",
+        "previousRoomId": "35184714988106",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "157354",
+        "name": "QM丨顾汐汐",
+        "previousRoomId": "35184678442182",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31050513",
+        "name": "我是枝枝吖",
+        "previousRoomId": "35184708605096",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "520996",
+        "name": "苏苏吖Oo",
+        "previousRoomId": "35184671092107",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31313335",
+        "name": "栗子【16028】",
+        "previousRoomId": "35184716389181",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "24873021",
+        "name": "酥恋恋",
+        "previousRoomId": "35184552364876",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "146342",
+        "name": "乔oo【Q】",
+        "previousRoomId": "35184671052077",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "21241803",
+        "name": "鬼畜娘",
+        "previousRoomId": "35184446276218",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31392624",
+        "name": "黛羽晨",
+        "previousRoomId": "35184719325534",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30581465",
+        "name": "亚、娜",
+        "previousRoomId": "35184694980465",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30594718",
+        "name": "HX-暴躁Coco",
+        "previousRoomId": "35184696982864",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "138531",
+        "name": "依依妹妹在等你",
+        "previousRoomId": "35184672409200",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "128739",
+        "name": "龙城、冰金金",
+        "previousRoomId": "35184657281811",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "23137351",
+        "name": "军武次位面",
+        "previousRoomId": "35184474821900",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "24641416",
+        "name": "山竹小师兄",
+        "previousRoomId": "35184556679110",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158972",
+        "name": "曜娱-卿卿",
+        "previousRoomId": "35184715567756",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158659",
+        "name": "大力-798",
+        "previousRoomId": "35184716714859",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "156341",
+        "name": "Hot-顾沅沅【幸运星】",
+        "previousRoomId": "35184706130896",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31340003",
+        "name": "HY-悠悠",
+        "previousRoomId": "35184717475648",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31187252",
+        "name": "Ants丶小鹿精灵",
+        "previousRoomId": "35184656896856",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "159125",
+        "name": "Up-桃花【国1云缨影】",
+        "previousRoomId": "35184718696631",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31160635",
+        "name": "蔓蔓绘梦",
+        "previousRoomId": "35184711574298",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31335215",
+        "name": "书香、小鱼",
+        "previousRoomId": "35184715492420",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31400681",
+        "name": "Up-曦曦",
+        "previousRoomId": "35184714738516",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31374136",
+        "name": "云翔-嘟嘟",
+        "previousRoomId": "35184654675713",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31183556",
+        "name": "怡悦xixi",
+        "previousRoomId": "35184712369180",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "527",
+        "name": "知恩、有位乔",
+        "previousRoomId": "35184376136155",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "136127",
+        "name": "救世【短】",
+        "previousRoomId": "35184582206589",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158726",
+        "name": "仙人掌【AJ】502锦鲤",
+        "previousRoomId": "35184713377573",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158935",
+        "name": "书香、甜甜i",
+        "previousRoomId": "35184715446072",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "86315",
+        "name": "LC-时光恋人",
+        "previousRoomId": "35184669552061",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "24856374",
+        "name": "探险者大航",
+        "previousRoomId": "35184564161979",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "147284",
+        "name": "集美小红【ZKL】",
+        "previousRoomId": "35184688344544",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31390383",
+        "name": "金莲子",
+        "previousRoomId": "35184719243962",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31308716",
+        "name": "快乐de小猫",
+        "previousRoomId": "35184716579912",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "148941",
+        "name": "小雯紫【轩徒】乘风破浪",
+        "previousRoomId": "35184552091622",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "21907220",
+        "name": "奥利奥成长日记",
+        "previousRoomId": "35184454426607",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "23245615",
+        "name": "AbbeyLau是爱比哟",
+        "previousRoomId": "35184477335334",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "25842193",
+        "name": "TG-安妮",
+        "previousRoomId": "35184384901438",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "24559515",
+        "name": "电气鼠宝宝",
+        "previousRoomId": "35184554061367",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31087930",
+        "name": "妍妍【16028】",
+        "previousRoomId": "35184709565050",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "153816",
+        "name": "JS-猫小七【MXQ】",
+        "previousRoomId": "35184701771823",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30392795",
+        "name": "HY-小金禧",
+        "previousRoomId": "35184669928391",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "29004061",
+        "name": "苏夏【幸运版】",
+        "previousRoomId": "35184665269153",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31210632",
+        "name": "老鼠的新娘",
+        "previousRoomId": "35184617999090",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "156824",
+        "name": "HY-小凛【月】",
+        "previousRoomId": "35184706482939",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "23728660",
+        "name": "我是靓宝",
+        "previousRoomId": "35184489098604",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31315073",
+        "name": "青青【16028】",
+        "previousRoomId": "35184696193212",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30964277",
+        "name": "Hx-果果",
+        "previousRoomId": "35184705788318",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "20969139",
+        "name": "Justkidding",
+        "previousRoomId": "35184442385105",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31374291",
+        "name": "DT丶允恩",
+        "previousRoomId": "35184718614507",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31210564",
+        "name": "TG-青樱",
+        "previousRoomId": "35184487340365",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "157861",
+        "name": "QY-咕茹茹【情深徒】",
+        "previousRoomId": "35184706871921",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "28445853",
+        "name": "沐艺桐",
+        "previousRoomId": "35184640598113",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31308465",
+        "name": "芊芊123208",
+        "previousRoomId": "35184716562385",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31311890",
+        "name": "由心婧婧",
+        "previousRoomId": "35184716634875",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31224562",
+        "name": "HY小钰",
+        "previousRoomId": "35184713501016",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31400194",
+        "name": "凡凡uu",
+        "previousRoomId": "35184719617000",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "20788501",
+        "name": "DT、酥御",
+        "previousRoomId": "35184439135154",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31390608",
+        "name": "鑫晓呱MM",
+        "previousRoomId": "35184719274679",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158694",
+        "name": "薯条大王【尊师鲶鱼】",
+        "previousRoomId": "35184707135211",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30631700",
+        "name": "越南小哥户外生存",
+        "previousRoomId": "35184697633969",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30930146",
+        "name": "Up-柒崽",
+        "previousRoomId": "35184705257860",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31380845",
+        "name": "HZ-小淮",
+        "previousRoomId": "35184718978248",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31217492",
+        "name": "铭创-椰子oO",
+        "previousRoomId": "35184713344958",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "153265",
+        "name": "颜颜【吉利】",
+        "previousRoomId": "35184679063564",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "158917",
+        "name": "山山-小乐宝【唱歌】",
+        "previousRoomId": "35184715306090",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31387611",
+        "name": "小橙汁oo",
+        "previousRoomId": "35184719123479",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31396917",
+        "name": "玖笙-十月【国1露娜】",
+        "previousRoomId": "35184700875959",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "152831",
+        "name": "Hot-小缘",
+        "previousRoomId": "35184700173636",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31381790",
+        "name": "HY-卿沅",
+        "previousRoomId": "35184682792583",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31364227",
+        "name": "哆哆爱唱歌",
+        "previousRoomId": "35184718282810",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "30100315",
+        "name": "铭创-胖大星【情深徒】",
+        "previousRoomId": "35184628254613",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "154269",
+        "name": "梦瑶瑶【16028】",
+        "previousRoomId": "35184662224658",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "156934",
+        "name": "XG-小泽【超级白】",
+        "previousRoomId": "35184708315005",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31376281",
+        "name": "HT-阿欢【国服射手】",
+        "previousRoomId": "35184718760233",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31316139",
+        "name": "Hot-诗诗",
+        "previousRoomId": "35184716720017",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "154951",
+        "name": "HY-梦洁儿",
+        "previousRoomId": "35184674939150",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31367442",
+        "name": "糖嬢嬢吖123208",
+        "previousRoomId": "35184408764468",
+        "mergedIntoExisting": true
+      },
+      {
+        "platform": "huya",
+        "roomId": "31363082",
+        "name": "恩恩enn",
+        "previousRoomId": "35184718215336",
+        "mergedIntoExisting": true
+      }
+    ]
+  }
+}

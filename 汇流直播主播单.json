@@ -4175,7 +4175,8 @@
       "roomId": "158726",
       "name": "仙人掌【AJ】502锦鲤",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1077/e9/e5b45e206bfb15623f541e21e3be31_180_135.jpg?1791382396",
       "note": "感谢牛哥，胖哥三至尊",
@@ -6765,7 +6766,8 @@
       "roomId": "31313335",
       "name": "栗子【16028】",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1038/73/d5f0a940724de30e0c7785e7053b55_180_135.jpg?1783097336",
       "note": "割稻谷...",
@@ -9798,7 +9800,8 @@
       "name": "小雯紫【轩徒】乘风破浪",
       "sections": [
         "talent",
-        "music"
+        "music",
+        "pk"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1081/09/9e0816f4550191735fd9fc12daec8b_180_135.jpg?1729875894",
       "note": "蓝莓哥 我想剃光头【唱歌】",
@@ -10096,7 +10099,8 @@
       "roomId": "31087930",
       "name": "妍妍【16028】",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1053/f7/2e0a5504f500ab703f1546515960be_180_135.jpg?1791379699",
       "note": "想你一起看电影",
@@ -10351,7 +10355,8 @@
       "roomId": "20209",
       "name": "万象-鹏子【暴富】",
       "sections": [
-        "talent"
+        "talent",
+        "pk"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1003/32/5adeba293b2c56b0ef254c216a6543_180_135.jpg?1687017678",
       "note": "狮子哥up~期待来自相遇",
@@ -42899,7 +42904,8 @@
       "roomId": "138175",
       "name": "李幼琳KK",
       "sections": [
-        "dance"
+        "dance",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1065/fe/614e1adf4cccce27c4f4fe170d7550_180_135.jpg?1786041310",
       "avatarColor": "#E8A120",
@@ -51418,7 +51424,8 @@
       "name": "Up-曦曦",
       "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
       "sections": [
-        "hok"
+        "hok",
+        "music"
       ],
       "note": "热度3.1万 · 唱歌吗",
       "avatarColor": "#DB9A13"
@@ -53193,7 +53200,8 @@
       "name": "HY-悠悠",
       "avatar": "https://huyaimg.msstatic.com/avatar/1040/aa/1c0201757d64f34d30b311dd3bce72_180_135.jpg?1785808223",
       "sections": [
-        "talent"
+        "talent",
+        "pk"
       ],
       "note": "热度15.2万 · 百川哥~蓝莓~掐指一算你该来了",
       "avatarColor": "#6B603B"
@@ -54380,7 +54388,8 @@
       "roomId": "31387611",
       "name": "小橙汁oo",
       "sections": [
-        "music"
+        "music",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1073/fc/10d39c2ee63a8a9ddef83f7a70f955_180_135.jpg?1790150069",
       "avatarColor": "#A4856D",
@@ -55688,7 +55697,8 @@
       "roomId": "31363082",
       "name": "恩恩enn",
       "sections": [
-        "dance"
+        "dance",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1001/1e/f9a9d5b9729d498af1b8a450f3377a_180_135.jpg?1787596311",
       "avatarColor": "#AB7D69",
@@ -55888,7 +55898,8 @@
       "roomId": "31364227",
       "name": "哆哆爱唱歌",
       "sections": [
-        "music"
+        "music",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1033/9c/e0f21e981db31b8bba38b44e8a28de_180_135.jpg?1787545058",
       "avatarColor": "#C99C8B",
@@ -59237,7 +59248,8 @@
       "roomId": "31361433",
       "name": "HZ-o椰",
       "sections": [
-        "pk"
+        "pk",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1084/f0/1b3b86c193b7fb8fd0eb2bfc6721a3_180_135.jpg?1787210130",
       "avatarColor": "#97848A",
@@ -61237,7 +61249,8 @@
       "name": "JS-猫小七【MXQ】",
       "sections": [
         "pk",
-        "xingxiu"
+        "xingxiu",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1016/1d/173246759465b90cbe7f2d21b846c6_180_135.jpg?1768717833",
       "avatarColor": "#DB97A0",
@@ -63589,7 +63602,8 @@
       "roomId": "31380845",
       "name": "HZ-小淮",
       "sections": [
-        "music"
+        "music",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1072/d8/4446883076d4751584a3f36d944984_180_135.jpg?1789454973",
       "avatarColor": "#DBACA9",
@@ -63603,7 +63617,8 @@
       "name": "佳亿-归云",
       "sections": [
         "music",
-        "xingxiu"
+        "xingxiu",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1062/b5/e47e2ff5c50199969ee8615827fd81_180_135.jpg?1671465173",
       "avatarColor": "#A69585",
@@ -67540,7 +67555,8 @@
       "roomId": "154912",
       "name": "集梦李文豪【116】",
       "sections": [
-        "talent"
+        "talent",
+        "irl"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1072/2d/580ccf54b46dbad9248032742cf494_180_135.jpg?1780156493",
       "avatarColor": "#9C93A4",
@@ -68460,7 +68476,8 @@
       "roomId": "31308716",
       "name": "快乐de小猫",
       "sections": [
-        "talent"
+        "talent",
+        "chat"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1010/f9/3a0da774f77e292acd787a8b78fe2c_180_135.jpg?1782381366",
       "avatarColor": "#C29185",
@@ -75572,7 +75589,8 @@
       "roomId": "31217492",
       "name": "铭创-椰子oO",
       "sections": [
-        "music"
+        "music",
+        "talent"
       ],
       "avatar": "https://huyaimg.msstatic.com/avatar/1007/17/9dff789ceea46cc8cf83a02266a525_180_135.jpg?1790916467",
       "avatarColor": "#B4A094",
@@ -103029,7 +103047,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1086/f7/a50aee3f241a039755d63fc7b1c6c0_180_135.jpg?1572264600",
       "avatarColor": "#BF68D3",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "note": "华农兄弟：去镇上买点菜，路过兄弟家的竹林，顺便挖点竹笋",
       "hot": 46480,
@@ -103068,7 +103087,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1008/02/050b0598a57c8f9a8ae7faa978dd05_180_135.jpg?1766635167",
       "avatarColor": "#68A3D3",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "note": "越南小哥24小时直播荒野求生",
       "hot": 45968,
@@ -106248,7 +106268,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1078/d1/bce3ec10b64e153565b691b830d5db_180_135.jpg?1627289014",
       "avatarColor": "#688ED3",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "note": "我是一颗小虎牙",
       "hot": 41591,
@@ -106590,7 +106611,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1087/4c/ffe937860bf03215749132b6ba1dc1_180_135.jpg?1597919826",
       "avatarColor": "#688ED3",
       "sections": [
-        "chat"
+        "chat",
+        "irl"
       ],
       "note": "欢迎来到我的直播间",
       "hot": 39168,
@@ -113327,7 +113349,8 @@
       "avatarColor": "#C79294",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "蓝莓~ 为你而来",
       "hot": 112072,
@@ -113428,7 +113451,8 @@
       "avatarColor": "#A88960",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "留下了给我撑腰",
       "hot": 68761,
@@ -114457,7 +114481,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1052/ad/350d8efe8693708235b6757d369740_180_135.jpg?1767722718",
       "avatarColor": "#BF8A70",
       "sections": [
-        "dance"
+        "dance",
+        "talent"
       ],
       "note": "【成都】跳舞主播",
       "hot": 37898,
@@ -116587,7 +116612,8 @@
       "avatarColor": "#607585",
       "sections": [
         "pk",
-        "xingxiu"
+        "xingxiu",
+        "talent"
       ],
       "note": "蓝莓蓝莓  百川UP",
       "hot": 55157,
@@ -119307,7 +119333,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1080/b6/aa27449a060835d70f14457f35e7df_180_135.jpg?1602840534",
       "avatarColor": "#AB6E74",
       "sections": [
-        "dance"
+        "dance",
+        "chat"
       ],
       "note": "血浆炸弹 嗜血芭蕾 准备好了没2",
       "hot": 28039,
@@ -120501,7 +120528,8 @@
       "avatarColor": "#7D5433",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "靠近我就靠近了快乐",
       "hot": 50066,
@@ -120530,7 +120558,8 @@
       "avatarColor": "#AD8672",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "【许愿百川蓝莓】1情书1s蹲",
       "hot": 48501,
@@ -120558,7 +120587,8 @@
       "avatarColor": "#847657",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "蓝莓~你不来我还能坚持多久",
       "hot": 46167,
@@ -120586,7 +120616,8 @@
       "avatarColor": "#B28D63",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "【湖南】给个面子看2分钟",
       "hot": 44407,
@@ -120615,7 +120646,8 @@
       "avatarColor": "#60A190",
       "sections": [
         "xingxiu",
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "新主播报道",
       "hot": 44180,
@@ -123710,7 +123742,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1099/a0/bd31b5652ccac88980176d41bf7960_180_135.jpg?1790431904",
       "avatarColor": "#AA7E66",
       "sections": [
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "（蓝莓）还有奇迹吗~",
       "hot": 42320,
@@ -123736,7 +123769,8 @@
       "avatar": "https://huyaimg.msstatic.com/avatar/1035/2f/95de76b319222a224f38e370d4e476_180_135.jpg?1790818987",
       "avatarColor": "#A69997",
       "sections": [
-        "pk"
+        "pk",
+        "talent"
       ],
       "note": "欢迎来到Timi丶小月亮的直播间",
       "hot": 40412,
@@ -185118,15 +185152,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184554061367",
-      "name": "电气鼠宝宝",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝174,086·热度30,655·女·确认｜【重播】电气鼠虎牙首秀，现场cos不知火舞"
-    },
-    {
-      "platform": "huya",
       "roomId": "2337997160",
       "name": "木兰橙【国服花木兰】",
       "sections": [
@@ -185939,16 +185964,6 @@
       "note": "抖音·粉丝90,273·热度1,426·女·确认｜三分钟学会秋冬季显瘦减龄穿搭"
     },
     {
-      "platform": "huya",
-      "roomId": "35184640598113",
-      "name": "沐艺桐",
-      "sections": [
-        "talent",
-        "dance"
-      ],
-      "note": "虎牙·粉丝85,285·热度31,273·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "26749250",
       "name": "有用滴教育",
@@ -185983,16 +185998,6 @@
         "talent"
       ],
       "note": "抖音·粉丝52,313·热度352·未标注｜经典戏曲传播正能量，进来聆听30秒...."
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184376136155",
-      "name": "知恩、有位乔",
-      "sections": [
-        "talent",
-        "pk"
-      ],
-      "note": "虎牙·粉丝49,779·热度222,043·女·确认"
     },
     {
       "platform": "huya",
@@ -186057,16 +186062,6 @@
         "talent"
       ],
       "note": "B站·粉丝26,465·热度12·未标注｜原装手柄，一张带回家？"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184402546282",
-      "name": "万象-鹏子【暴富】",
-      "sections": [
-        "talent",
-        "pk"
-      ],
-      "note": "虎牙·粉丝26,213·热度102,936·男·确认"
     },
     {
       "platform": "bilibili",
@@ -186239,15 +186234,6 @@
         "talent"
       ],
       "note": "B站·粉丝11,310·热度6,123·未标注｜会保养  耐看型"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184706482939",
-      "name": "HY-小凛【月】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝11,133·热度48,861·女·确认"
     },
     {
       "platform": "bilibili",
@@ -187739,27 +187725,6 @@
       "note": "抖音·粉丝308,906·热度4,537·女·确认｜『情感连麦』排行榜·第2名"
     },
     {
-      "platform": "huya",
-      "roomId": "35184552091622",
-      "name": "小雯紫【轩徒】乘风破浪",
-      "sections": [
-        "pk",
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝5,968·热度77,976·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184656896856",
-      "name": "Ants丶小鹿精灵",
-      "sections": [
-        "pk",
-        "talent"
-      ],
-      "note": "虎牙·粉丝5,414·热度135,825·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "113560784827",
       "name": "桃诺洛",
@@ -187767,56 +187732,6 @@
         "pk"
       ],
       "note": "抖音·粉丝5,159·热度700·女·确认｜娱乐连麦"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184707135211",
-      "name": "薯条大王【尊师鲶鱼】",
-      "sections": [
-        "pk",
-        "talent"
-      ],
-      "note": "虎牙·粉丝4,219·热度295,207·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184678442182",
-      "name": "QM丨顾汐汐",
-      "sections": [
-        "pk",
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,758·热度99,780·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184717475648",
-      "name": "HY-悠悠",
-      "sections": [
-        "pk",
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,339·热度51,136·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184718168146",
-      "name": "小鱼饱饱Oo",
-      "sections": [
-        "pk",
-        "talent"
-      ],
-      "note": "虎牙·粉丝384·热度124,238·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184682792583",
-      "name": "HY-卿沅",
-      "sections": [
-        "pk",
-        "talent"
-      ],
-      "note": "虎牙·粉丝331·热度37,200·女·确认"
     },
     {
       "platform": "huya",
@@ -187901,15 +187816,6 @@
         "irl"
       ],
       "note": "抖音·粉丝124,071·热度10·男·确认｜艺轩煎饼正在直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184422794859",
-      "name": "华农兄弟",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝114,403·热度46,491·男·确认｜华农兄弟：去镇上买点菜，路过兄弟家的竹林，顺"
     },
     {
       "platform": "douyin",
@@ -188020,15 +187926,6 @@
       "note": "抖音·粉丝45,693·热度231·男·确认｜今天暴户了这么多"
     },
     {
-      "platform": "huya",
-      "roomId": "35184474821900",
-      "name": "军武次位面",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝45,114·热度42,435·女·确认｜军械武器比拼--【军武次位面】"
-    },
-    {
       "platform": "douyin",
       "roomId": "151552320531",
       "name": "(老挝阿刚)中泰漫谷",
@@ -188126,15 +188023,6 @@
         "irl"
       ],
       "note": "抖音·粉丝23,898·热度926·男·确认｜张同学走乡村正在直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184442385105",
-      "name": "Justkidding",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝22,847·热度40,960·女·确认｜荒野厨王04：挑战婆罗洲沼泽，最原始的捕虾工"
     },
     {
       "platform": "douyin",
@@ -188237,24 +188125,6 @@
       "note": "抖音·粉丝14,156·热度3,042·未标注｜户外套猪现场…"
     },
     {
-      "platform": "huya",
-      "roomId": "35184465507050",
-      "name": "集梦李文豪【116】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝13,499·热度33,291·男·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184713377573",
-      "name": "仙人掌【AJ】502锦鲤",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝13,154·热度191,500·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "686829216176",
       "name": "风微浪稳老杨",
@@ -188328,15 +188198,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184555268242",
-      "name": "吴哥赶海",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝9,559·热度40,353·女·确认｜我是一颗小虎牙"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184555268258",
       "name": "蟒蛇宠物",
       "sections": [
@@ -188356,30 +188217,12 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184716714859",
-      "name": "大力-798",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝9,210·热度86,794·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "1192726650",
       "name": "邱廷军",
       "sections": [
         "irl"
       ],
       "note": "虎牙·粉丝9,044·热度35,969·男·确认｜邱廷军"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184688344544",
-      "name": "集美小红【ZKL】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝8,588·热度51,117·女·确认"
     },
     {
       "platform": "douyin",
@@ -188562,15 +188405,6 @@
       "note": "抖音·粉丝3,969·热度296·女·分区｜喵"
     },
     {
-      "platform": "huya",
-      "roomId": "35184671092107",
-      "name": "苏苏吖Oo",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝3,391·热度471,842·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "244614549667",
       "name": "包子油条",
@@ -188713,15 +188547,6 @@
         "talent"
       ],
       "note": "B站·粉丝7,843·热度5,036·女·分区｜05 瑜伽师 随便问"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184674939150",
-      "name": "HY-梦洁儿",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝6,998·热度46,999·女·确认"
     },
     {
       "platform": "bilibili",
@@ -189062,30 +188887,12 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184482176705",
-      "name": "夏冉冉、",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝6,175·热度45,958·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184675950673",
       "name": "智琳超白i【暴富】",
       "sections": [
         "talent"
       ],
       "note": "虎牙·粉丝6,060·热度30,306·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184705788318",
-      "name": "Hx-果果",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝5,992·热度103,187·女·确认"
     },
     {
       "platform": "douyin",
@@ -189106,15 +188913,6 @@
       "note": "抖音·粉丝7,958·热度1·女·确认｜永康同城想洗脸，今天别错过"
     },
     {
-      "platform": "huya",
-      "roomId": "35184662224658",
-      "name": "梦瑶瑶【16028】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝7,922·热度44,823·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "612882862470",
       "name": "小橙花🌸（户外",
@@ -189122,15 +188920,6 @@
         "irl"
       ],
       "note": "抖音·粉丝7,868·热度1,887·女·确认｜户外赶大集！"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184477335334",
-      "name": "AbbeyLau是爱比哟",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝6,716·热度38,414·女·确认｜AbbeyLau奇案分析"
     },
     {
       "platform": "douyin",
@@ -189167,15 +188956,6 @@
         "irl"
       ],
       "note": "抖音·粉丝5,787·热度13·女·推断｜澜沧江露营"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184474142647",
-      "name": "晨哥真有料",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝5,314·热度35,966·女·确认｜欢迎来到我的直播间"
     },
     {
       "platform": "douyin",
@@ -189555,15 +189335,6 @@
         "chat"
       ],
       "note": "抖音·粉丝124,443·热度2,220·女·确认｜进来瞧瞧直播间在干啥～"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184489098604",
-      "name": "我是靓宝",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝122,233·热度40,378·女·确认｜大江大河之岁月如歌，王凯逐梦前行"
     },
     {
       "platform": "douyin",
@@ -190584,15 +190355,6 @@
       "note": "虎牙·粉丝16,991·热度38,451·女·确认｜欢迎来到我的直播间"
     },
     {
-      "platform": "huya",
-      "roomId": "35184699958328",
-      "name": "越式酥麻",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝16,924·热度50,532·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1829024854",
       "name": "YK-只若初见-航哥冠",
@@ -190681,15 +190443,6 @@
         "acg"
       ],
       "note": "抖音·粉丝14,136·热度117·女·确认｜总有一首能唱到你心里"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184672409200",
-      "name": "依依妹妹在等你",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝14,132·热度37,693·女·确认"
     },
     {
       "platform": "douyin",
@@ -191514,15 +191267,6 @@
       "note": "B站·粉丝6,347·热度5,391·女·推断｜养成系小哭宝!"
     },
     {
-      "platform": "huya",
-      "roomId": "35184694980465",
-      "name": "亚、娜",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝6,240·热度59,100·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "166260280803",
       "name": "乐其讲故事（晶呈）",
@@ -192217,15 +191961,6 @@
       "note": "抖音·粉丝3,534·热度2,811·女·确认｜新人首播避坑与经验交流"
     },
     {
-      "platform": "huya",
-      "roomId": "35184657281811",
-      "name": "龙城、冰金金",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝3,527·热度38,789·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "46754881683",
       "name": "坤坤-Henrik",
@@ -192514,15 +192249,6 @@
       "note": "B站·粉丝2,938·热度0·未标注｜温顺 听话"
     },
     {
-      "platform": "huya",
-      "roomId": "35184710949290",
-      "name": "古个哒",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝2,922·热度70,202·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1896764027",
       "name": "菠菜爱吃肉肉",
@@ -192631,15 +192357,6 @@
       "note": "B站·粉丝2,698·热度4,521·未标注｜初恋脸"
     },
     {
-      "platform": "huya",
-      "roomId": "35184712355735",
-      "name": "全糖艳麦zoo",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝2,683·热度77,400·女·确认｜来打三爷 座山雕"
-    },
-    {
       "platform": "douyin",
       "roomId": "303414912541",
       "name": "小糖糖🎤 (努力版)早8点28分开播",
@@ -192701,15 +192418,6 @@
         "music"
       ],
       "note": "B站·粉丝2,650·热度1,955·未标注｜比封面可爱一点点"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184484456381",
-      "name": "李幼琳KK",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝2,643·热度107,557·女·确认"
     },
     {
       "platform": "douyin",
@@ -192793,15 +192501,6 @@
       "note": "抖音·粉丝2,517·热度0·女·确认｜邓美丽正在直播"
     },
     {
-      "platform": "huya",
-      "roomId": "35184716579912",
-      "name": "快乐de小猫",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝2,506·热度185,735·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "181692229151",
       "name": "照松广告喷画-赵总",
@@ -192881,15 +192580,6 @@
         "talent"
       ],
       "note": "B站·粉丝2,452·热度1,318·未标注｜丈夫开大车  常年不回家"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184696982864",
-      "name": "HX-暴躁Coco",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝2,446·热度40,827·女·确认"
     },
     {
       "platform": "douyin",
@@ -193154,16 +192844,6 @@
         "chat"
       ],
       "note": "B站·粉丝2,161·热度792·未标注｜唉？你在找我嘛？"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184679063564",
-      "name": "颜颜【吉利】",
-      "sections": [
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝2,147·热度34,560·女·确认"
     },
     {
       "platform": "douyin",
@@ -193484,15 +193164,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184669928391",
-      "name": "HY-小金禧",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,747·热度31,314·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184567818824",
       "name": "我是三三呀",
       "sections": [
@@ -193589,15 +193260,6 @@
         "dance"
       ],
       "note": "抖音·粉丝1,628·热度72·未标注｜新团开播第一天！"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184671052077",
-      "name": "乔oo【Q】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,625·热度38,128·女·确认"
     },
     {
       "platform": "bilibili",
@@ -193744,15 +193406,6 @@
       "note": "B站·粉丝1,458·热度6,093·未标注｜是谁偷看被抓到噜～"
     },
     {
-      "platform": "huya",
-      "roomId": "35184669552061",
-      "name": "LC-时光恋人",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝1,454·热度60,423·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "637708607152",
       "name": "小南（王者万象棋）",
@@ -193769,15 +193422,6 @@
         "irl"
       ],
       "note": "抖音·粉丝1,441·热度0·男·确认｜冰雹坑凹陷修复"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184713501016",
-      "name": "HY小钰",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,430·热度41,670·女·确认"
     },
     {
       "platform": "douyin",
@@ -193987,15 +193631,6 @@
       "note": "B站·粉丝1,314·热度419·未标注｜尝试二十五分钟番茄钟专注记录"
     },
     {
-      "platform": "huya",
-      "roomId": "35184708315005",
-      "name": "XG-小泽【超级白】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,312·热度21,364·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "906375062447",
       "name": "🍁平安是福🍁",
@@ -194003,15 +193638,6 @@
         "irl"
       ],
       "note": "抖音·粉丝1,308·热度0·女·确认｜🍁平安是福🍁正在直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184564161979",
-      "name": "探险者大航",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝1,304·热度37,935·女·确认｜我是一颗小虎牙"
     },
     {
       "platform": "douyin",
@@ -194041,15 +193667,6 @@
       "note": "抖音·粉丝1,277·热度0·女·确认｜欢迎大家走进直播间～"
     },
     {
-      "platform": "huya",
-      "roomId": "35184711574298",
-      "name": "蔓蔓绘梦",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝1,273·热度76,686·女·确认｜狄仁杰之四大天王"
-    },
-    {
       "platform": "douyin",
       "roomId": "961190534556",
       "name": "红红",
@@ -194066,15 +193683,6 @@
         "talent"
       ],
       "note": "B站·粉丝1,259·热度3,664·未标注｜微微一闹很麻麻"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184716165174",
-      "name": "小号黑猫啊",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝1,258·热度86,964·女·确认"
     },
     {
       "platform": "bilibili",
@@ -194167,15 +193775,6 @@
       "note": "抖音·粉丝1,216·热度341·男·确认｜慧特翼无人机应用服务（无人机全"
     },
     {
-      "platform": "huya",
-      "roomId": "35184700173636",
-      "name": "Hot-小缘",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,215·热度19,878·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1972872048",
       "name": "1只肥羊洋",
@@ -194231,33 +193830,6 @@
       "note": "抖音·粉丝1,198·热度336·女·确认｜全网最好看的月弯弯！没有之一！！！"
     },
     {
-      "platform": "huya",
-      "roomId": "35184714988106",
-      "name": "程程【401】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝1,188·热度59,509·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184715446072",
-      "name": "书香、甜甜i",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,184·热度467,790·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184706130896",
-      "name": "Hot-顾沅沅【幸运星】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,183·热度35,409·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "599317676802",
       "name": "曼阅豆浆（小号）接打礼炮",
@@ -194292,15 +193864,6 @@
         "talent"
       ],
       "note": "B站·粉丝1,169·热度6,483·未标注｜性格乖，不如长得乖！"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184706871921",
-      "name": "QY-咕茹茹【情深徒】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,161·热度42,423·女·确认"
     },
     {
       "platform": "bilibili",
@@ -194393,24 +193956,6 @@
       "note": "抖音·粉丝1,142·热度180·未标注｜姐姐我还有机会吗"
     },
     {
-      "platform": "huya",
-      "roomId": "35184712369180",
-      "name": "怡悦xixi",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝1,138·热度79,570·女·确认｜无间道"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184697123327",
-      "name": "星耀-魂牵梦绕",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝1,135·热度50,170·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "639437168213",
       "name": "咸丰大坝空心油粑粑",
@@ -194427,15 +193972,6 @@
         "irl"
       ],
       "note": "抖音·粉丝1,128·热度20·男·确认｜马杨学习中正在直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184582206589",
-      "name": "救世【短】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝1,124·热度39,485·男·确认"
     },
     {
       "platform": "douyin",
@@ -194862,15 +194398,6 @@
       "note": "抖音·粉丝891·热度0·男·确认｜装修避坑！"
     },
     {
-      "platform": "huya",
-      "roomId": "35184701771823",
-      "name": "JS-猫小七【MXQ】",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝888·热度52,758·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "983630802993",
       "name": "静",
@@ -195016,15 +194543,6 @@
       "note": "抖音·粉丝856·热度1·女·确认｜进来瞧瞧直播间在干啥～"
     },
     {
-      "platform": "huya",
-      "roomId": "35184709565050",
-      "name": "妍妍【16028】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝856·热度50,109·女·确认"
-    },
-    {
       "platform": "douyin",
       "roomId": "997187382763",
       "name": "棱镜-Prism",
@@ -195104,15 +194622,6 @@
         "chat"
       ],
       "note": "虎牙·粉丝831·热度29,938·女·确认｜终极一家-时空夹缝里的人"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184454426607",
-      "name": "奥利奥成长日记",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝829·热度34,641·男·确认｜让狗狗吃榴莲，它的反应让你们无法想象？"
     },
     {
       "platform": "douyin",
@@ -195277,15 +194786,6 @@
       "note": "虎牙·粉丝753·热度66,011·男·确认"
     },
     {
-      "platform": "huya",
-      "roomId": "35184718215336",
-      "name": "恩恩enn",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝744·热度55,800·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1792599220",
       "name": "炽潋",
@@ -195302,15 +194802,6 @@
         "chat"
       ],
       "note": "B站·粉丝737·热度1,673·未标注｜这直播看了不烧心"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184716634875",
-      "name": "由心婧婧",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝735·热度82,173·女·确认｜士兵突袭  许三多"
     },
     {
       "platform": "bilibili",
@@ -195458,15 +194949,6 @@
       "note": "B站·粉丝674·热度8,730·未标注｜别让我妈知道我干这个"
     },
     {
-      "platform": "huya",
-      "roomId": "35184716389181",
-      "name": "栗子【16028】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝671·热度5·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1909963104",
       "name": "亲亲小zhang",
@@ -195501,16 +194983,6 @@
         "chat"
       ],
       "note": "B站·粉丝661·热度5,101｜处女座温柔电子女友"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184628254613",
-      "name": "铭创-胖大星【情深徒】",
-      "sections": [
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝657·热度36,248·男·确认"
     },
     {
       "platform": "douyin",
@@ -195647,15 +195119,6 @@
         "hok"
       ],
       "note": "虎牙·粉丝602·热度90,640·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184696193212",
-      "name": "青青【16028】",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝600·热度21,551·女·确认"
     },
     {
       "platform": "bilibili",
@@ -196243,24 +195706,6 @@
       "note": "虎牙·粉丝433·热度30,271·女·确认｜认真生活的一天 松浦弥太郎--生活的100个基本"
     },
     {
-      "platform": "huya",
-      "roomId": "35184678238649",
-      "name": "TG-枝枝【超乖哟】",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝431·热度76,204·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184556679110",
-      "name": "山竹小师兄",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝430·热度35,023·女·确认｜我是一颗小虎牙"
-    },
-    {
       "platform": "douyin",
       "roomId": "872465318335",
       "name": "Reeds",
@@ -196340,24 +195785,6 @@
         "chat"
       ],
       "note": "抖音·粉丝413·热度2,321·未标注｜AA生活臻选馆正在直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184439135154",
-      "name": "DT、酥御",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝410·热度136,521·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184697633969",
-      "name": "越南小哥户外生存",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝409·热度43,087·女·确认｜越南小哥24小时直播荒野求生"
     },
     {
       "platform": "bilibili",
@@ -196460,15 +195887,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184715492420",
-      "name": "书香、小鱼",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝380·热度39,333·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184625058292",
       "name": "三分组织",
       "sections": [
@@ -196494,15 +195912,6 @@
         "irl"
       ],
       "note": "抖音·粉丝365·热度429·女·确认｜#6个女儿娘家#河南姐妹#户外直播唱歌"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184705257860",
-      "name": "Up-柒崽",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝365·热度75,119·女·确认"
     },
     {
       "platform": "douyin",
@@ -196602,15 +196011,6 @@
         "chat"
       ],
       "note": "虎牙·粉丝349·热度32,261·男·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184446276218",
-      "name": "鬼畜娘",
-      "sections": [
-        "chat"
-      ],
-      "note": "虎牙·粉丝347·热度31,401·女·确认｜血浆炸弹 嗜血芭蕾 准备好了没2"
     },
     {
       "platform": "douyin",
@@ -196892,15 +196292,6 @@
       "note": "B站·粉丝294·热度7·未标注｜黄金鱼"
     },
     {
-      "platform": "huya",
-      "roomId": "35184716720017",
-      "name": "Hot-诗诗",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝293·热度40,663·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1937574906",
       "name": "静玄问道",
@@ -196935,15 +196326,6 @@
         "acg"
       ],
       "note": "抖音·粉丝290·热度392·男·确认｜澄海热门榜一玩具，沉浸式直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184682720695",
-      "name": "寻宝炼金纪录片",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝289·热度38,885·女·确认｜欢迎来到我的直播间"
     },
     {
       "platform": "douyin",
@@ -197091,15 +196473,6 @@
       "note": "抖音·粉丝265·热度1·未标注｜姐姐们礼包码来了！古风江南，重生千金，重建我的玲珑织坊#空格"
     },
     {
-      "platform": "huya",
-      "roomId": "35184708605096",
-      "name": "我是枝枝吖",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝265·热度29,500·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1890955703",
       "name": "波浪七",
@@ -197137,15 +196510,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184665269153",
-      "name": "苏夏【幸运版】",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝258·热度43,224·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184682720611",
       "name": "大头猴足球",
       "sections": [
@@ -197170,15 +196534,6 @@
         "hok"
       ],
       "note": "B站·粉丝256·热度4,371·女·推断｜浙江06甜妹通宵有位全能中辅"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184713344958",
-      "name": "铭创-椰子oO",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝255·热度180,033·女·确认"
     },
     {
       "platform": "bilibili",
@@ -197271,15 +196626,6 @@
       "note": "B站·粉丝243·热度865·未标注｜谁家女朋友走丢了"
     },
     {
-      "platform": "huya",
-      "roomId": "35184654675713",
-      "name": "云翔-嘟嘟",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝241·热度605,249·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1943676471",
       "name": "喜欢rap的泠月",
@@ -197297,16 +196643,6 @@
         "talent"
       ],
       "note": "虎牙·粉丝239·热度23,438·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184649673264",
-      "name": "佳亿-归云",
-      "sections": [
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝239·热度14,541·男·确认"
     },
     {
       "platform": "bilibili",
@@ -197562,15 +196898,6 @@
       "note": "B站·粉丝199·热度14·未标注｜小助理挂时长"
     },
     {
-      "platform": "huya",
-      "roomId": "35184715567756",
-      "name": "曜娱-卿卿",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝198·热度395,392·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1732288910",
       "name": "萌面侠不吃香菜",
@@ -197814,15 +197141,6 @@
       "note": "B站·粉丝161·热度47·未标注｜【塑料粤语】快来陪我过生日！！！"
     },
     {
-      "platform": "huya",
-      "roomId": "35184487340365",
-      "name": "TG-青樱",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝160·热度123,433·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1978204291",
       "name": "一颗_momo",
@@ -197830,15 +197148,6 @@
         "talent"
       ],
       "note": "B站·粉丝160·热度3,930·未标注｜咱一起过吧"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184718614507",
-      "name": "DT丶允恩",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝158·热度647,318·女·确认"
     },
     {
       "platform": "huya",
@@ -198057,16 +197366,6 @@
       "note": "B站·粉丝145·热度8·未标注｜初来报道，关注一下吧~"
     },
     {
-      "platform": "huya",
-      "roomId": "35184715306090",
-      "name": "山山-小乐宝【唱歌】",
-      "sections": [
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝144·热度29,238·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1918792923",
       "name": "星晚YS",
@@ -198110,15 +197409,6 @@
         "chat"
       ],
       "note": "B站·粉丝139·热度23·未标注｜累了就进来，我会一直在！"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184717990404",
-      "name": "JS-小江",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝138·热度218,869·女·确认"
     },
     {
       "platform": "bilibili",
@@ -198201,15 +197491,6 @@
         "talent"
       ],
       "note": "虎牙·粉丝132·热度30,473·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184718464311",
-      "name": "QY-池优优",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝131·热度31,612·女·确认"
     },
     {
       "platform": "bilibili",
@@ -198303,15 +197584,6 @@
       "note": "B站·粉丝125·热度27·未标注｜成熟女人"
     },
     {
-      "platform": "huya",
-      "roomId": "35184718696631",
-      "name": "Up-桃花【国1云缨影】",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝124·热度601,388·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1732282960",
       "name": "沫沫9252",
@@ -198357,15 +197629,6 @@
       "note": "B站·粉丝121·热度1,249·未标注｜毕业后来直播的第一天"
     },
     {
-      "platform": "huya",
-      "roomId": "35184718160164",
-      "name": "HZ-o椰",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝118·热度371,655·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1957022436",
       "name": "拉布拉多三代目",
@@ -198409,24 +197672,6 @@
         "chat"
       ],
       "note": "B站·粉丝111·热度1,234·女·推断｜【少御】别说话 看我就好"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184552364876",
-      "name": "酥恋恋",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝110·热度13,952·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184384901438",
-      "name": "TG-安妮",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝109·热度45,037·女·确认"
     },
     {
       "platform": "bilibili",
@@ -198499,15 +197744,6 @@
         "hok"
       ],
       "note": "B站·粉丝102·热度2,945·未标注｜国服大乔在线学习射手"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184553273445",
-      "name": "蔡小姬探班日记",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝101·热度31,577·女·确认｜蔡小姬探班日记第3期：虞姬启明星使皮肤~"
     },
     {
       "platform": "bilibili",
@@ -198846,15 +198082,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184719274679",
-      "name": "鑫晓呱MM",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝74·热度38,920·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184430410886",
       "name": "阿里幺妹儿",
       "sections": [
@@ -198942,15 +198169,6 @@
         "dance"
       ],
       "note": "B站·粉丝69·热度9·未标注｜尊巴课堂实录 跟着主播一起燃脂律动"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184617999090",
-      "name": "老鼠的新娘",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝68·热度0·女·确认"
     },
     {
       "platform": "huya",
@@ -199050,15 +198268,6 @@
         "irl"
       ],
       "note": "抖音·粉丝65·热度0·未标注｜洛盾养车临平店正在直播"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184718978248",
-      "name": "HZ-小淮",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝65·热度27,428·女·确认"
     },
     {
       "platform": "bilibili",
@@ -199170,15 +198379,6 @@
       "note": "B站·粉丝61·热度4,044·未标注｜【新人】御霸不能的声音"
     },
     {
-      "platform": "huya",
-      "roomId": "35184719617000",
-      "name": "凡凡uu",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝60·热度38,900·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1851409916",
       "name": "澜汐-Lx",
@@ -199234,15 +198434,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184718760233",
-      "name": "HT-阿欢【国服射手】",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝55·热度590,761·男·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184697634033",
       "name": "国际扇耳光大赛",
       "sections": [
@@ -199258,15 +198449,6 @@
         "chat"
       ],
       "note": "B站·粉丝55·热度218·未标注｜什么？没听过顶级少御？？？"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184408764468",
-      "name": "糖嬢嬢吖123208",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝54·热度27,102·女·确认"
     },
     {
       "platform": "bilibili",
@@ -199305,16 +198487,6 @@
       "note": "B站·粉丝52·热度13·未标注｜冒险岛国服怀旧"
     },
     {
-      "platform": "huya",
-      "roomId": "35184718282810",
-      "name": "哆哆爱唱歌",
-      "sections": [
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝51·热度40,629·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1963478236",
       "name": "新仙魔九界天天仙侠",
@@ -199331,15 +198503,6 @@
         "talent"
       ],
       "note": "B站·粉丝51·热度48·未标注｜纯过日子人"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184716562385",
-      "name": "芊芊123208",
-      "sections": [
-        "irl"
-      ],
-      "note": "虎牙·粉丝50·热度39,013·女·确认"
     },
     {
       "platform": "bilibili",
@@ -199856,15 +199019,6 @@
       "note": "抖音·粉丝30·热度0｜用户6229293733447"
     },
     {
-      "platform": "huya",
-      "roomId": "35184719274619",
-      "name": "Timi丶小月亮",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝30·热度36,219·女·确认"
-    },
-    {
       "platform": "bilibili",
       "roomId": "1890955965",
       "name": "bili_92835037587",
@@ -200199,24 +199353,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184719571749",
-      "name": "鱼跃-巧儿",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝21·热度56,417·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184719243962",
-      "name": "金莲子",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝21·热度88,324·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "2080879517",
       "name": "枫歆水爪霖",
       "sections": [
@@ -200461,15 +199597,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184700875959",
-      "name": "玖笙-十月【国1露娜】",
-      "sections": [
-        "hok"
-      ],
-      "note": "虎牙·粉丝15·热度34,088·男·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184716200352",
       "name": "软糯糯00",
       "sections": [
@@ -200695,16 +199822,6 @@
     },
     {
       "platform": "huya",
-      "roomId": "35184719123479",
-      "name": "小橙汁oo",
-      "sections": [
-        "talent",
-        "music"
-      ],
-      "note": "虎牙·粉丝11·热度35,031·女·确认"
-    },
-    {
-      "platform": "huya",
       "roomId": "35184709313411",
       "name": "林檬m",
       "sections": [
@@ -200901,15 +200018,6 @@
         "talent"
       ],
       "note": "虎牙·粉丝8·热度28,794·女·确认"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184719325534",
-      "name": "黛羽晨",
-      "sections": [
-        "talent"
-      ],
-      "note": "虎牙·粉丝8·热度36,273·女·确认"
     },
     {
       "platform": "huya",
@@ -201171,16 +200279,6 @@
         "irl"
       ],
       "note": "抖音·粉丝4·热度0·男·确认｜觉得生活累的朋友，过来聊聊心里"
-    },
-    {
-      "platform": "huya",
-      "roomId": "35184714738516",
-      "name": "Up-曦曦",
-      "sections": [
-        "hok",
-        "music"
-      ],
-      "note": "虎牙·粉丝4·热度31,468·女·确认"
     },
     {
       "platform": "huya",
